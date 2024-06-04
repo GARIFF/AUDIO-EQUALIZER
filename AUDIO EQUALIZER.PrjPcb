@@ -71,6 +71,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CJUZPBVV
 
 [Document2]
+DocumentPath=LIB\RAPC732X.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=URTOGVXV
+
+[Document3]
 DocumentPath=LIB\R82EC1470DQ50K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQJFRECX
 
-[Document3]
+[Document4]
 DocumentPath=LIB\R82EC2220DQ50J.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXZYJDWP
 
-[Document4]
+[Document5]
 DocumentPath=LIB\860010772006.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZKHXZBS
 
-[Document5]
+[Document6]
 DocumentPath=LIB\Res_Bourns_PTV09A-4020F-A504_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJJOTLVM
 
-[Document6]
+[Document7]
 DocumentPath=LIB\Res_BI_Technologies_P0915N-FC15BR100K_eec.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDNTGEBT
 
-[Document7]
+[Document8]
+DocumentPath=LIB\SWITCHCRAFT_RAPC732X.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWKMVHEH
+
+[Document9]
 DocumentPath=LIB\R82EC1470DQ50K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EURSTWAV
 
-[Document8]
+[Document10]
 DocumentPath=LIB\R82EC2220DQ50J.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBBMODBK
 
-[Document9]
+[Document11]
 DocumentPath=LIB\860010772006.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOIIGDWV
 
-[Document10]
+[Document12]
 DocumentPath=LIB\PHE426DJ4120JR05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENJVWDVC
 
-[Document11]
+[Document13]
 DocumentPath=LIB\Res_Bourns_PTV09A-4020F-A504_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBEKRJDQ
 
-[Document12]
+[Document14]
 DocumentPath=LIB\Res_BI_Technologies_P0915N-FC15BR100K_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHTYCBTB
 
-[Document13]
+[Document15]
 DocumentPath=LIB\PHE426DJ4120JR05.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,6 +307,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OODVKDOT
+
+[Document16]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KJCTELUC
+
+[Document17]
+DocumentPath=BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
